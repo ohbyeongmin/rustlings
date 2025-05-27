@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-quiz3
+tests1
 
 intro1
 intro2
@@ -33,6 +33,7 @@ move_semantics3
 move_semantics4
 move_semantics5
 structs1
+structs2
 structs3
 enums1
 enums2
@@ -64,3 +65,7 @@ traits2
 traits3
 traits4
 traits5
+quiz3
+lifetimes1
+lifetimes2
+lifetimes3
